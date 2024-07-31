@@ -1,0 +1,3135 @@
+
+------------------------------------------------------
+Sample 1				ID #: 85728
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Positive(+).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.239000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: EXCEEDS LIMIT
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.000000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 4.110000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Lead: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 5.690000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Cryptosporidium (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Antimony -> Increase in blood cholesterol; decrease in blood sugar
+	• Fluoride -> Bone disease (pain and tenderness of the bones); Children may get mottled teeth
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 2				ID #: 18782
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Positive(+).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.006000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.001000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.466000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: EXCEEDS LIMIT
+  Copper: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.004000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.672000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: EXCEEDS LIMIT
+  Nitrate: 
+	Detected: 0.001000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Enteric Viruses (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Chromium -> Allergic dermatitis.
+	• Lead -> Children: Delays in physical or mental development. Adults: Kidney problems; high blood pressure
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 3				ID #: 69852
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: EXCEEDS LIMIT
+  Arsenic: 
+	Detected: 0.006000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.000000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.006000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.001000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.003000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Antimony -> Increase in blood cholesterol; decrease in blood sugar
+	• Beryllium -> Intestinal lesions.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 4				ID #: 40486
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.000000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.003000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.001000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample has tested negative for the above microorganisms, is within the 
+normal limits for the above inorganic substances and is therefore safe to drink with respect to the substances tested.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 5				ID #: 72340
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.002000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.006000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.000000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 8.010000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Selenium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Beryllium -> Intestinal lesions.
+	• Nitrite -> Infants below the age of six months who drink water containing nitrite in excess of the MCL could become seriously ill and, if untreated, may die. Symptoms include shortness of breath and blue-baby syndrome.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 6				ID #: 96650
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.006000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 3.950000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Beryllium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: EXCEEDS LIMIT
+  Chromium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.002000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 4.050000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Barium -> Increase in blood pressure.
+	• Beryllium -> Intestinal lesions.
+	• Cadmium -> Kidney damage.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 7				ID #: 92312
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Positive(+).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.002000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 4.180000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.003000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Legionella (+) -> Legionnaire's Disease, a type of pneumonia.
+	• Beryllium -> Intestinal lesions.
+	• Fluoride -> Bone disease (pain and tenderness of the bones); Children may get mottled teeth
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 8				ID #: 57819
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.000000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.004000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.943000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.001000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.006000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Beryllium -> Intestinal lesions.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 9				ID #: 42235
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Positive(+).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Positive(+).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.001000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.006000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 8.510000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 5.820000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Selenium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Cryptosporidium (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Enteric Viruses (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Nitrite -> Infants below the age of six months who drink water containing nitrite in excess of the MCL could become seriously ill and, if untreated, may die. Symptoms include shortness of breath and blue-baby syndrome.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 10				ID #: 77094
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.001000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 6.650000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.003000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.001000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Barium -> Increase in blood pressure.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 11				ID #: 17522
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: EXCEEDS LIMIT
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.006000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: EXCEEDS LIMIT
+  Chromium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.006000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.003000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Antimony -> Increase in blood cholesterol; decrease in blood sugar
+	• Cadmium -> Kidney damage.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 12				ID #: 33624
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.001000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.001000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.000000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.303000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: EXCEEDS LIMIT
+  Nitrate: 
+	Detected: 0.006000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.000000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Beryllium -> Intestinal lesions.
+	• Lead -> Children: Delays in physical or mental development. Adults: Kidney problems; high blood pressure
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 13				ID #: 88806
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Positive(+).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.001000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: EXCEEDS LIMIT
+  Chromium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.003000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.006000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Cryptosporidium (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Beryllium -> Intestinal lesions.
+	• Cadmium -> Kidney damage.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 14				ID #: 15211
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Positive(+).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.002000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 4.630000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Lead: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.002000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Giardia Lamblia (+) ->Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Fluoride -> Bone disease (pain and tenderness of the bones); Children may get mottled teeth
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 15				ID #: 57986
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Positive(+).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.006000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 9.960000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Beryllium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: EXCEEDS LIMIT
+  Chromium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.002000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.001000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.561000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: EXCEEDS LIMIT
+  Thallium: 
+	Detected: 0.011000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Giardia Lamblia (+) ->Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Barium -> Increase in blood pressure.
+	• Cadmium -> Kidney damage.
+	• Selenium -> Hair or fingernail loss; numbness in fingers or toes; circulatory problems.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 16				ID #: 25709
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Positive(+).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.002000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.001000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.000000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.001000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.000000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Enteric Viruses (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Beryllium -> Intestinal lesions.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 17				ID #: 62560
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Positive(+).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: EXCEEDS LIMIT
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.000000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.005000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.147000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: EXCEEDS LIMIT
+  Nitrate: 
+	Detected: 0.006000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.003000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Cryptosporidium (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Antimony -> Increase in blood cholesterol; decrease in blood sugar
+	• Lead -> Children: Delays in physical or mental development. Adults: Kidney problems; high blood pressure
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 18				ID #: 17399
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.001000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.001000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.001000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 19				ID #: 94785
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.006000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.002000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.003000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.000000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.003000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 20				ID #: 98502
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Positive(+).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.000000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.571000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: EXCEEDS LIMIT
+  Copper: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.002000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.003000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Giardia Lamblia (+) ->Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Beryllium -> Intestinal lesions.
+	• Chromium -> Allergic dermatitis.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 21				ID #: 37723
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Positive(+).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: EXCEEDS LIMIT
+  Arsenic: 
+	Detected: 0.006000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.006000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.619000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: EXCEEDS LIMIT
+  Fluoride: 
+	Detected: 0.003000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.000000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Giardia Lamblia (+) ->Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Antimony -> Increase in blood cholesterol; decrease in blood sugar
+	• Cyanide -> Nerve damage or thyroid problems
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 22				ID #: 57768
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Positive(+).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.040000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: EXCEEDS LIMIT
+  Arsenic: 
+	Detected: 0.000000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.006000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.001000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.004000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.449000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: EXCEEDS LIMIT
+  Thallium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Cryptosporidium (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Antimony -> Increase in blood cholesterol; decrease in blood sugar
+	• Selenium -> Hair or fingernail loss; numbness in fingers or toes; circulatory problems.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 23				ID #: 43938
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Positive(+).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.003000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 3.200000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: EXCEEDS LIMIT
+  Cyanide: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.005000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.006000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Giardia Lamblia (+) ->Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Beryllium -> Intestinal lesions.
+	• Copper -> Short term exposure, Gastrointestinal distress. Long term exposure, Liver or kidney damage.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 24				ID #: 44247
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.004000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.003000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.004000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.004000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.003000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample has tested negative for the above microorganisms, is within the 
+normal limits for the above inorganic substances and is therefore safe to drink with respect to the substances tested.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 25				ID #: 95830
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Positive(+).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.005000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.005000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.003000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Legionella (+) -> Legionnaire's Disease, a type of pneumonia.
+	• Beryllium -> Intestinal lesions.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 26				ID #: 87816
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Positive(+).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: EXCEEDS LIMIT
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.003000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 4.420000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: EXCEEDS LIMIT
+  Cyanide: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.005000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.000000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Legionella (+) -> Legionnaire's Disease, a type of pneumonia.
+	• Antimony -> Increase in blood cholesterol; decrease in blood sugar
+	• Copper -> Short term exposure, Gastrointestinal distress. Long term exposure, Liver or kidney damage.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 27				ID #: 53740
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Positive(+).
+  Legionella 	  --- Positive(+).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.002000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.002000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.066000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.001000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.003000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 9.770000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Selenium: 
+	Detected: 0.243000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: EXCEEDS LIMIT
+  Thallium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Giardia Lamblia (+) ->Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Legionella (+) -> Legionnaire's Disease, a type of pneumonia.
+	• Nitrite -> Infants below the age of six months who drink water containing nitrite in excess of the MCL could become seriously ill and, if untreated, may die. Symptoms include shortness of breath and blue-baby syndrome.
+	• Selenium -> Hair or fingernail loss; numbness in fingers or toes; circulatory problems.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 28				ID #: 42572
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.799000 mg/L (Upper Limit 0.010 mg/L)
+	Result: EXCEEDS LIMIT
+  Barium: 
+	Detected: 0.000000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: EXCEEDS LIMIT
+  Chromium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 9.760000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: EXCEEDS LIMIT
+  Cyanide: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.001000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.845000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: EXCEEDS LIMIT
+  Nitrate: 
+	Detected: 0.006000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.067000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: EXCEEDS LIMIT
+  Thallium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Arsenic -> Skin damage or problems with circulatory systems, and may have increased risk of getting cancer.
+	• Beryllium -> Intestinal lesions.
+	• Cadmium -> Kidney damage.
+	• Copper -> Short term exposure, Gastrointestinal distress. Long term exposure, Liver or kidney damage.
+	• Lead -> Children: Delays in physical or mental development. Adults: Kidney problems; high blood pressure
+	• Selenium -> Hair or fingernail loss; numbness in fingers or toes; circulatory problems.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 29				ID #: 21379
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Positive(+).
+  Enteric Viruses --- Positive(+).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.000000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.002000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.004000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.002000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Legionella (+) -> Legionnaire's Disease, a type of pneumonia.
+	• Enteric Viruses (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Beryllium -> Intestinal lesions.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 30				ID #: 29083
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Positive(+).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.006000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.002000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.003000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.002000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.000000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Enteric Viruses (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 31				ID #: 68171
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.002000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.002000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.415000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.006000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.004000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Beryllium -> Intestinal lesions.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 32				ID #: 98891
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Positive(+).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: EXCEEDS LIMIT
+  Arsenic: 
+	Detected: 0.004000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.002000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.006000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.005000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.000000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Legionella (+) -> Legionnaire's Disease, a type of pneumonia.
+	• Antimony -> Increase in blood cholesterol; decrease in blood sugar
+	• Beryllium -> Intestinal lesions.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 33				ID #: 30794
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Positive(+).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.002000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.002000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.000000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.004000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Enteric Viruses (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 34				ID #: 72488
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.004000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 4.420000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.003000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.004000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 6.520000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Barium -> Increase in blood pressure.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 35				ID #: 71516
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: EXCEEDS LIMIT
+  Arsenic: 
+	Detected: 0.004000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.003000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: EXCEEDS LIMIT
+  Chromium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.003000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.003000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.003000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Antimony -> Increase in blood cholesterol; decrease in blood sugar
+	• Cadmium -> Kidney damage.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 36				ID #: 73514
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.001000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.002000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.000000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.002000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Beryllium -> Intestinal lesions.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 37				ID #: 80405
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Positive(+).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.006000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.001000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.257000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: EXCEEDS LIMIT
+  Fluoride: 
+	Detected: 0.000000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.004000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Legionella (+) -> Legionnaire's Disease, a type of pneumonia.
+	• Cyanide -> Nerve damage or thyroid problems
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 38				ID #: 73649
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.005000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: EXCEEDS LIMIT
+  Chromium: 
+	Detected: 0.256000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: EXCEEDS LIMIT
+  Copper: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.001000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.001000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Cadmium -> Kidney damage.
+	• Chromium -> Allergic dermatitis.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 39				ID #: 37293
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Positive(+).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.005000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.000000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.001000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.000000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.003000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Enteric Viruses (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 40				ID #: 68455
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.000000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: EXCEEDS LIMIT
+  Chromium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.003000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.005000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.002000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.640000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Cadmium -> Kidney damage.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 41				ID #: 75122
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Positive(+).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.004000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.002000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Cryptosporidium (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Beryllium -> Intestinal lesions.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 42				ID #: 44845
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.006000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.000000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.001000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 5.810000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.001000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: WNL
+
+IMPRESSION:
+This sample has tested negative for the above microorganisms, is within the 
+normal limits for the above inorganic substances and is therefore safe to drink with respect to the substances tested.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 43				ID #: 64494
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.000000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.006000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: EXCEEDS LIMIT
+  Cadmium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.004000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.006000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.000000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Beryllium -> Intestinal lesions.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 44				ID #: 40791
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.002000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.001000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.001000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.000000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 8.250000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Selenium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Nitrite -> Infants below the age of six months who drink water containing nitrite in excess of the MCL could become seriously ill and, if untreated, may die. Symptoms include shortness of breath and blue-baby syndrome.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 45				ID #: 83232
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.005000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.003000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.006000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.004000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.004000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.003000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 46				ID #: 57596
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Positive(+).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.000000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 7.240000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.161000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.000000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.000000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Giardia Lamblia (+) ->Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Barium -> Increase in blood pressure.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 47				ID #: 68476
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Positive(+).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: EXCEEDS LIMIT
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.006000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.006000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.004000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.006000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Legionella (+) -> Legionnaire's Disease, a type of pneumonia.
+	• Antimony -> Increase in blood cholesterol; decrease in blood sugar
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 48				ID #: 92841
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.003000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.000000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 6.770000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: EXCEEDS LIMIT
+  Cyanide: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.001000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.003000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 8.140000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: EXCEEDS LIMIT
+  Selenium: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Copper -> Short term exposure, Gastrointestinal distress. Long term exposure, Liver or kidney damage.
+	• Nitrite -> Infants below the age of six months who drink water containing nitrite in excess of the MCL could become seriously ill and, if untreated, may die. Symptoms include shortness of breath and blue-baby syndrome.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 49				ID #: 42087
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Negative(-).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.006000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.005000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.005000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.005000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.003000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.004000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.003000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.004000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: WNL
+  Thallium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
+
+------------------------------------------------------
+Sample 50				ID #: 21473
+---------------------RESULTS--------------------------
+
+Detection of Microorganisms:
+  Cryptosporidium --- Positive(+).
+  Giardia Lamblia --- Negative(-).
+  Legionella 	  --- Negative(-).
+  Enteric Viruses --- Negative(-).
+
+Inorganic Chemical Values (WNL = Within Normal Limits):
+  Antimony: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.006 mg/L)
+	Result: WNL
+  Arsenic: 
+	Detected: 0.005000 mg/L (Upper Limit 0.010 mg/L)
+	Result: WNL
+  Barium: 
+	Detected: 0.004000 mg/L (Upper Limit: 2.0 mg/L)
+	Result: WNL
+  Beryllium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.004 mg/L)
+	Result: WNL
+  Cadmium: 
+	Detected: 0.000000 mg/L (Upper Limit: 0.005 mg/L)
+	Result: WNL
+  Chromium: 
+	Detected: 0.003000 mg/L (Upper Limit: 0.1 mg/L)
+	Result: WNL
+  Copper: 
+	Detected: 0.002000 mg/L (Upper Limit: 1.3 mg/L)
+	Result: WNL
+  Cyanide: 
+	Detected: 0.001000 mg/L (Upper Limit: 0.2 mg/L)
+	Result: WNL
+  Fluoride: 
+	Detected: 0.002000 mg/L (Upper Limit: 4.0 mg/L)
+	Result: WNL
+  Lead: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.015 mg/L)
+	Result: WNL
+  Nitrate: 
+	Detected: 0.004000 mg/L (Upper Limit: 10.0 mg/L)
+	Result: WNL
+  Nitrite: 
+	Detected: 0.000000 mg/L (Upper Limit: 1.0 mg/L)
+	Result: WNL
+  Selenium: 
+	Detected: 0.170000 mg/L (Upper Limit: 0.05 mg/L)
+	Result: EXCEEDS LIMIT
+  Thallium: 
+	Detected: 0.002000 mg/L (Upper Limit: 0.002 mg/L)
+	Result: EXCEEDS LIMIT
+
+IMPRESSION:
+This sample is NOT safe to drink. Consumption of this sample is strongly discouraged due to the potential health risks:
+	• Cryptosporidium (+) -> Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+	• Selenium -> Hair or fingernail loss; numbness in fingers or toes; circulatory problems.
+	• Thallium -> Hair loss; changes in blood; kidney, intestine, or liver problems.
+
+---------------------END OF REPORT---------------------
+
